@@ -12,8 +12,8 @@ Building business applications with Java, Vue.js and Open Source ERPs
 
 <p align="center">
 
-<a href="https://github.com/NyAvoMatt">
-<img src="https://img.shields.io/github/followers/NyAvoMatt?style=for-the-badge">
+<a href="https://github.com/NyAvoMatthieu">
+<img src="https://img.shields.io/github/followers/NyAvoMatthieu?style=for-the-badge">
 </a>
 
 <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge">
