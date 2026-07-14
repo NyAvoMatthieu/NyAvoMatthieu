@@ -1,188 +1,252 @@
-<!-- Bannière -->
+<!-- ========================= -->
+<!--          BANNER          -->
+<!-- ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Ny%20Avo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20•%20Spring%20Boot%20•%20Vue.js&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563EB,100:06B6D4&text=Ny%20Avo&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Java%20•%20Spring%20Boot%20•%20Vue.js&descAlignY=60"/>
 </p>
 
-# 👋 Bonjour, je suis Ny Avo
+<h3 align="center">
+Building business applications with Java, Vue.js and Open Source ERPs
+</h3>
 
-🎓 Étudiant en informatique passionné par le développement d'applications web modernes, les architectures backend robustes et les ERP Open Source.
+<p align="center">
 
-J'aime concevoir des applications complètes en combinant **Spring Boot**, **Vue.js** et des bases de données relationnelles tout en intégrant des solutions comme **Dolibarr**, **GLPI** et **PrestaShop**.
+<a href="https://github.com/NyAvoMatt">
+<img src="https://img.shields.io/github/followers/NyAvoMatt?style=for-the-badge">
+</a>
 
----
+<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge">
 
-# 🚀 À propos de moi
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge">
 
-- 🎓 Étudiant en informatique
-- 💻 Développeur Full Stack
-- ☕ Passionné par Java et Spring Boot
-- 🌐 Développeur Vue.js 3
-- 📦 Amateur d'ERP Open Source
-- 🐧 Utilisateur quotidien de Linux (Ubuntu)
-- 📚 Toujours en train d'apprendre de nouvelles technologies
+</p>
 
 ---
 
-# 🚧 Actuellement
+# 👋 About Me
 
-Je travaille principalement sur :
+I'm a Computer Science student from Madagascar passionate about building scalable business applications.
 
-- 🔹 Applications Spring Boot + Vue.js
-- 🔹 Intégration et personnalisation de Dolibarr
-- 🔹 Développement d'API REST
-- 🔹 Automatisation de traitements de données
-- 🔹 Architecture logicielle et bonnes pratiques
+I enjoy designing complete solutions—from database modeling to backend APIs and modern frontend interfaces.
 
----
+My main interests include:
 
-# ⭐ Ce qui distingue mon profil
-
-Contrairement à un profil Full Stack classique, je m'intéresse particulièrement à l'intégration de systèmes de gestion (ERP) et à la conception d'applications métiers.
-
-Mes principaux domaines sont :
-
-- ✅ Développement Java avec Spring Boot
-- ✅ Développement frontend avec Vue.js 3
-- ✅ Intégration d'ERP Open Source
-- ✅ Développement et consommation d'API REST
-- ✅ Modélisation de bases de données relationnelles
-- ✅ Développement sous Linux
+- ☕ Java & Spring Boot
+- 💚 Vue.js 3
+- 📦 ERP customization (Dolibarr, GLPI, PrestaShop)
+- 🗄️ Relational databases
+- 🔗 REST API design
+- 🐧 Linux development
 
 ---
 
-# 🛠️ Stack technique
+# 🚀 Currently Working On
+
+- Spring Boot + Vue.js applications
+- Dolibarr integrations
+- ERP customization
+- REST APIs
+- Database optimization
+- Software architecture
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=php"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
+
+---
 
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=laravel"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
 </p>
+
+---
 
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=vue,js,html,css,vite"/>
-</p>
 
-## Bases de données
+<img src="https://skillicons.dev/icons?i=vue"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
-</p>
+<img src="https://skillicons.dev/icons?i=vite"/>
 
-## Outils
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,maven,linux,github"/>
 </p>
 
 ---
 
-# 📌 Projets principaux
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=maven"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+---
+
+# ⭐ What Makes My Profile Different
+
+Instead of focusing only on web development, I specialize in business applications and enterprise software.
+
+I enjoy solving real-world problems involving:
+
+- ERP integration
+- Data import/export
+- REST APIs
+- Database design
+- Business workflows
+- Enterprise software customization
+
+---
+
+# 📂 Featured Projects
 
 ## 📊 Doli App
 
-Application développée autour de Dolibarr.
+> Payroll management and dashboard for Dolibarr
 
-Fonctionnalités :
+✔ Vue.js 3
 
-- gestion des salaires
-- import de données
-- tableau de bord
-- API REST
-- frontend Vue.js
-- synchronisation avec Dolibarr
+✔ Spring Boot
 
----
+✔ REST API
 
-## 🏢 Gestion RH
+✔ CSV Import
 
-Application Spring Boot permettant :
-
-- gestion des employés
-- gestion des congés
-- gestion des notes de frais
-- produits
-- entrepôts
-- tableaux de bord
+✔ Dashboard
 
 ---
 
-## 🛒 Intégration PrestaShop
+## 👨‍💼 HR Management
 
-Développement d'outils permettant :
+Employee management system including:
 
-- import de produits
-- import de clients
-- synchronisation avec le Webservice API
-- automatisation des imports
-
----
-
-## 🎫 GLPI
-
-Développement autour de GLPI :
-
-- gestion des coûts
-- API REST
-- automatisation
-- intégration avec d'autres applications
+- Leave management
+- Expense reports
+- Warehouse
+- Products
+- Dashboards
 
 ---
 
-# 📚 En apprentissage
+## 🛒 PrestaShop Tools
 
-Je continue à approfondir :
+Automation tools for
+
+- Product import
+- Customer import
+- API integration
+
+---
+
+## 🎫 GLPI Extensions
+
+Development around
+
+- Cost management
+- REST API
+- Automation
+
+---
+
+# 📖 Learning
+
+Currently exploring:
 
 - Clean Architecture
+
 - Spring Security
+
 - Docker
-- PostgreSQL avancé
-- Optimisation SQL
-- Intégration continue (CI/CD)
+
+- CI/CD
+
+- PostgreSQL optimization
 
 ---
 
-# 📊 Statistiques GitHub
+# 📈 GitHub Activity
 
-<p align="center">
+> *(GitHub statistics intentionally omitted for reliability.)*
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NyAvoMatthieu&show_icons=true&theme=tokyonight"/>
+My repositories and pinned projects better reflect my work than generated statistics.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyAvoMatthieu&layout=compact&theme=tokyonight"/>
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://github.com/NyAvoMatt">
+GitHub
+</a>
+
+•
+
+<a href="https://www.linkedin.com/">
+LinkedIn
+</a>
 
 </p>
 
 ---
 
-# 🔥 Streak
+# 💬 Favorite Quote
 
-<p align="center">
-
-t<img src="https://streak-stats.demolab.com?user=NyAvoMatthieuE&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📫 Me contacter
-
-- GitHub : https://github.com/TON_USERNAME
-- LinkedIn : TON_LINKEDIN
-- Email : TON_EMAIL
-
----
-
-# 💡 Citation
-
-> *"Les meilleures applications sont celles qui résolvent des problèmes réels tout en restant simples à maintenir."*
+> *"Code is not just written to work, but to be understood, maintained and improved."*
 
 ---
 
 <p align="center">
 
-Merci de votre visite 😊
+⭐ Thanks for visiting my profile!
 
-N'hésitez pas à découvrir mes projets et à me laisser un ⭐ si l'un d'eux vous est utile.
+Feel free to explore my repositories and leave a star if you find something useful.
 
 </p>
